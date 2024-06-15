@@ -2,7 +2,7 @@
 
 This is a Simple Implementation of MediaPipe Hands in conjunction with the Three.js library which trys to emulate AR Interaction.
 
-Try it out [here](https://isthmusalien.github.io/3js_HANDS/)
+Try it out 
 
 ### Dependencies
 
